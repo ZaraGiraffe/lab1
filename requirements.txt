@@ -1,0 +1,6 @@
+matplotlib
+pomegranate<1.0
+networkx==2.5
+numpy
+nltk==3.5
+pandas
